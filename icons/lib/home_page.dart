@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("Flutter Icons"),
+        title: Text("Flutter Iconss"),
       ),
       body: Scaffold(
         body: Center(
